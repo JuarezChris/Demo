@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+body {
+    background-color: #333;
+    color:azure;
+}
+
+p{
+    display: inline-block;
+    width: 300px;
+    background-color: gray;
+    padding: 20px;
+}
+
+h1{
+    display: inline-block;
+    width: 300px;
+    background-color: darkslategray;
+    
+}
+
+
+.purple{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#green{
+    background-color: green;
+    text-align: right;
+}
+
+.catbug-image{
+    width: 300px;
+    height:300px;
+    vertical-align: top;
+    border: 7px dashed olivedrab;
+}
+#container{
+    margin: 0 auto;
+    background-color: aqua;
+    width: 1000px;
+    padding: 20px;
+}

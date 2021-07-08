@@ -1,0 +1,36 @@
+*{
+    margin: 5px;
+}
+body{
+    background-color: #333;
+    color:aliceblue;
+}
+
+p{
+    display: inline-block;
+    width: 350px;
+    background-color: rgb(77, 61, 38);
+    padding:5px;
+}
+
+h1{
+    background-color: darkslategray;
+    width: 350px;
+    display: inline-block;
+    padding:5px;
+}
+
+.purple{
+    background-color: purple;
+}
+
+#orange{
+    background-color: orange;
+}
+
+.catbug-image{
+    width: 350px;
+    vertical-align: top;
+    height: 350px;
+    border: 10px solid blueviolet;
+}
